@@ -1,0 +1,597 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EDA9DF7D1847E8B20068565A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA9DF7C1847E8B20068565A /* Cocoa.framework */; };
+		EDA9DF871847E8B30068565A /* MobileDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DF861847E8B30068565A /* MobileDevice.m */; };
+		EDA9DF8E1847E8B30068565A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA9DF8D1847E8B30068565A /* XCTest.framework */; };
+		EDA9DF8F1847E8B30068565A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA9DF7C1847E8B20068565A /* Cocoa.framework */; };
+		EDA9DF921847E8B30068565A /* libMobileDevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA9DF791847E8B20068565A /* libMobileDevice.a */; };
+		EDA9DF981847E8B30068565A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EDA9DF961847E8B30068565A /* InfoPlist.strings */; };
+		EDA9DF9A1847E8B30068565A /* MobileDeviceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DF991847E8B30068565A /* MobileDeviceTests.m */; };
+		EDA9DFA71847E9930068565A /* AMService.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA51847E9930068565A /* AMService.h */; };
+		EDA9DFAB1847EB950068565A /* AMApplication.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA91847EB950068565A /* AMApplication.h */; };
+		EDA9DFAF1847EBEC0068565A /* AMApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFAD1847EBEC0068565A /* AMApplication.m */; };
+		EDA9DFB01847EBEC0068565A /* AMService.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFAE1847EBEC0068565A /* AMService.m */; };
+		EDA9DFB31847EC230068565A /* AMNotificationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB11847EC230068565A /* AMNotificationProxy.h */; };
+		EDA9DFB41847EC230068565A /* AMNotificationProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFB21847EC230068565A /* AMNotificationProxy.m */; };
+		EDA9DFB71847EC720068565A /* AMSpringboardServices.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB51847EC720068565A /* AMSpringboardServices.h */; };
+		EDA9DFB81847EC720068565A /* AMSpringboardServices.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFB61847EC720068565A /* AMSpringboardServices.m */; };
+		EDA9DFBF1847ED000068565A /* AMInstallationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFBD1847ED000068565A /* AMInstallationProxy.h */; };
+		EDA9DFC01847ED000068565A /* AMInstallationProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFBE1847ED000068565A /* AMInstallationProxy.m */; };
+		EDA9DFC31847ED450068565A /* AMMobileSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC11847ED450068565A /* AMMobileSync.h */; };
+		EDA9DFC41847ED450068565A /* AMMobileSync.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFC21847ED450068565A /* AMMobileSync.m */; };
+		EDA9DFC71847ED7E0068565A /* AMSyslogRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC51847ED7E0068565A /* AMSyslogRelay.h */; };
+		EDA9DFC81847ED7E0068565A /* AMSyslogRelay.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFC61847ED7E0068565A /* AMSyslogRelay.m */; };
+		EDA9DFCB1847ED980068565A /* AMFileRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC91847ED980068565A /* AMFileRelay.h */; };
+		EDA9DFCC1847ED980068565A /* AMFileRelay.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFCA1847ED980068565A /* AMFileRelay.m */; };
+		EDA9DFCF1847EDBA0068565A /* AFCFileReference.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFCD1847EDBA0068565A /* AFCFileReference.h */; };
+		EDA9DFD01847EDBA0068565A /* AFCFileReference.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFCE1847EDBA0068565A /* AFCFileReference.m */; };
+		EDA9DFD71847EECC0068565A /* BaseObject.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD51847EECC0068565A /* BaseObject.h */; };
+		EDA9DFD81847EECC0068565A /* BaseObject.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFD61847EECC0068565A /* BaseObject.m */; };
+		EDA9DFDB1847EF510068565A /* AFCDirectoryAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD91847EF510068565A /* AFCDirectoryAccess.h */; };
+		EDA9DFDC1847EF510068565A /* AFCDirectoryAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFDA1847EF510068565A /* AFCDirectoryAccess.m */; };
+		EDA9DFDF1847EFED0068565A /* AFCMediaDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFDD1847EFED0068565A /* AFCMediaDirectory.h */; };
+		EDA9DFE01847EFED0068565A /* AFCMediaDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFDE1847EFED0068565A /* AFCMediaDirectory.m */; };
+		EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE11847F0180068565A /* AFCCrashLogDirectory.h */; };
+		EDA9DFE41847F0180068565A /* AFCCrashLogDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFE21847F0180068565A /* AFCCrashLogDirectory.m */; };
+		EDA9DFE71847F03C0068565A /* AFCGeneralDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE51847F03C0068565A /* AFCGeneralDirectory.h */; };
+		EDA9DFE81847F03C0068565A /* AFCGeneralDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFE61847F03C0068565A /* AFCGeneralDirectory.m */; };
+		EDA9DFEB1847F0570068565A /* AFCRootDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE91847F0570068565A /* AFCRootDirectory.h */; };
+		EDA9DFEC1847F0570068565A /* AFCRootDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFEA1847F0570068565A /* AFCRootDirectory.m */; };
+		EDA9DFEF1847F06D0068565A /* AFCApplicationDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFED1847F06D0068565A /* AFCApplicationDirectory.h */; };
+		EDA9DFF01847F06D0068565A /* AFCApplicationDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFEE1847F06D0068565A /* AFCApplicationDirectory.m */; };
+		EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF11847F08F0068565A /* AMDevice.h */; };
+		EDA9DFF41847F08F0068565A /* AMDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFF21847F08F0068565A /* AMDevice.m */; };
+		EDA9DFF81847F1A80068565A /* MobileDeviceAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF61847F1A80068565A /* MobileDeviceAccess.h */; };
+		EDA9DFF91847F1A80068565A /* MobileDeviceAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */; };
+		EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFFA184801580068565A /* DeviceAdapter.h */; };
+		EDA9DFFD184801580068565A /* DeviceAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFFB184801580068565A /* DeviceAdapter.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EDA9DF901847E8B30068565A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EDA9DF711847E8B20068565A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDA9DF781847E8B20068565A;
+			remoteInfo = MobileDevice;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EDA9DF791847E8B20068565A /* libMobileDevice.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMobileDevice.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA9DF7C1847E8B20068565A /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		EDA9DF7F1847E8B20068565A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EDA9DF801847E8B20068565A /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		EDA9DF811847E8B20068565A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		EDA9DF841847E8B20068565A /* MobileDevice-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MobileDevice-Prefix.pch"; sourceTree = "<group>"; };
+		EDA9DF851847E8B20068565A /* MobileDevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MobileDevice.h; sourceTree = "<group>"; };
+		EDA9DF861847E8B30068565A /* MobileDevice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MobileDevice.m; sourceTree = "<group>"; };
+		EDA9DF8C1847E8B30068565A /* MobileDeviceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobileDeviceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA9DF8D1847E8B30068565A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		EDA9DF951847E8B30068565A /* MobileDeviceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MobileDeviceTests-Info.plist"; sourceTree = "<group>"; };
+		EDA9DF971847E8B30068565A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EDA9DF991847E8B30068565A /* MobileDeviceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MobileDeviceTests.m; sourceTree = "<group>"; };
+		EDA9DFA51847E9930068565A /* AMService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMService.h; sourceTree = "<group>"; };
+		EDA9DFA91847EB950068565A /* AMApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMApplication.h; sourceTree = "<group>"; };
+		EDA9DFAD1847EBEC0068565A /* AMApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMApplication.m; sourceTree = "<group>"; };
+		EDA9DFAE1847EBEC0068565A /* AMService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMService.m; sourceTree = "<group>"; };
+		EDA9DFB11847EC230068565A /* AMNotificationProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMNotificationProxy.h; sourceTree = "<group>"; };
+		EDA9DFB21847EC230068565A /* AMNotificationProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMNotificationProxy.m; sourceTree = "<group>"; };
+		EDA9DFB51847EC720068565A /* AMSpringboardServices.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSpringboardServices.h; sourceTree = "<group>"; };
+		EDA9DFB61847EC720068565A /* AMSpringboardServices.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMSpringboardServices.m; sourceTree = "<group>"; };
+		EDA9DFBD1847ED000068565A /* AMInstallationProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMInstallationProxy.h; sourceTree = "<group>"; };
+		EDA9DFBE1847ED000068565A /* AMInstallationProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMInstallationProxy.m; sourceTree = "<group>"; };
+		EDA9DFC11847ED450068565A /* AMMobileSync.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMMobileSync.h; sourceTree = "<group>"; };
+		EDA9DFC21847ED450068565A /* AMMobileSync.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMMobileSync.m; sourceTree = "<group>"; };
+		EDA9DFC51847ED7E0068565A /* AMSyslogRelay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSyslogRelay.h; sourceTree = "<group>"; };
+		EDA9DFC61847ED7E0068565A /* AMSyslogRelay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMSyslogRelay.m; sourceTree = "<group>"; };
+		EDA9DFC91847ED980068565A /* AMFileRelay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMFileRelay.h; sourceTree = "<group>"; };
+		EDA9DFCA1847ED980068565A /* AMFileRelay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMFileRelay.m; sourceTree = "<group>"; };
+		EDA9DFCD1847EDBA0068565A /* AFCFileReference.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCFileReference.h; sourceTree = "<group>"; };
+		EDA9DFCE1847EDBA0068565A /* AFCFileReference.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCFileReference.m; sourceTree = "<group>"; };
+		EDA9DFD51847EECC0068565A /* BaseObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseObject.h; sourceTree = "<group>"; };
+		EDA9DFD61847EECC0068565A /* BaseObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseObject.m; sourceTree = "<group>"; };
+		EDA9DFD91847EF510068565A /* AFCDirectoryAccess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCDirectoryAccess.h; sourceTree = "<group>"; };
+		EDA9DFDA1847EF510068565A /* AFCDirectoryAccess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCDirectoryAccess.m; sourceTree = "<group>"; };
+		EDA9DFDD1847EFED0068565A /* AFCMediaDirectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCMediaDirectory.h; sourceTree = "<group>"; };
+		EDA9DFDE1847EFED0068565A /* AFCMediaDirectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCMediaDirectory.m; sourceTree = "<group>"; };
+		EDA9DFE11847F0180068565A /* AFCCrashLogDirectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCCrashLogDirectory.h; sourceTree = "<group>"; };
+		EDA9DFE21847F0180068565A /* AFCCrashLogDirectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCCrashLogDirectory.m; sourceTree = "<group>"; };
+		EDA9DFE51847F03C0068565A /* AFCGeneralDirectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCGeneralDirectory.h; sourceTree = "<group>"; };
+		EDA9DFE61847F03C0068565A /* AFCGeneralDirectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCGeneralDirectory.m; sourceTree = "<group>"; };
+		EDA9DFE91847F0570068565A /* AFCRootDirectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCRootDirectory.h; sourceTree = "<group>"; };
+		EDA9DFEA1847F0570068565A /* AFCRootDirectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCRootDirectory.m; sourceTree = "<group>"; };
+		EDA9DFED1847F06D0068565A /* AFCApplicationDirectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCApplicationDirectory.h; sourceTree = "<group>"; };
+		EDA9DFEE1847F06D0068565A /* AFCApplicationDirectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFCApplicationDirectory.m; sourceTree = "<group>"; };
+		EDA9DFF11847F08F0068565A /* AMDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMDevice.h; sourceTree = "<group>"; };
+		EDA9DFF21847F08F0068565A /* AMDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMDevice.m; sourceTree = "<group>"; };
+		EDA9DFF61847F1A80068565A /* MobileDeviceAccess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileDeviceAccess.h; sourceTree = "<group>"; };
+		EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileDeviceAccess.m; sourceTree = "<group>"; };
+		EDA9DFFA184801580068565A /* DeviceAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceAdapter.h; sourceTree = "<group>"; };
+		EDA9DFFB184801580068565A /* DeviceAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceAdapter.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EDA9DF761847E8B20068565A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DF7D1847E8B20068565A /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDA9DF891847E8B30068565A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DF8F1847E8B30068565A /* Cocoa.framework in Frameworks */,
+				EDA9DF921847E8B30068565A /* libMobileDevice.a in Frameworks */,
+				EDA9DF8E1847E8B30068565A /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EDA9DF701847E8B20068565A = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF821847E8B20068565A /* MobileDevice */,
+				EDA9DF931847E8B30068565A /* MobileDeviceTests */,
+				EDA9DF7B1847E8B20068565A /* Frameworks */,
+				EDA9DF7A1847E8B20068565A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EDA9DF7A1847E8B20068565A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF791847E8B20068565A /* libMobileDevice.a */,
+				EDA9DF8C1847E8B30068565A /* MobileDeviceTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EDA9DF7B1847E8B20068565A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF7C1847E8B20068565A /* Cocoa.framework */,
+				EDA9DF8D1847E8B30068565A /* XCTest.framework */,
+				EDA9DF7E1847E8B20068565A /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EDA9DF7E1847E8B20068565A /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF7F1847E8B20068565A /* Foundation.framework */,
+				EDA9DF801847E8B20068565A /* CoreData.framework */,
+				EDA9DF811847E8B20068565A /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		EDA9DF821847E8B20068565A /* MobileDevice */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DFA31847E8F80068565A /* src */,
+				EDA9DF851847E8B20068565A /* MobileDevice.h */,
+				EDA9DF861847E8B30068565A /* MobileDevice.m */,
+				EDA9DF831847E8B20068565A /* Supporting Files */,
+			);
+			path = MobileDevice;
+			sourceTree = "<group>";
+		};
+		EDA9DF831847E8B20068565A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF841847E8B20068565A /* MobileDevice-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EDA9DF931847E8B30068565A /* MobileDeviceTests */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF991847E8B30068565A /* MobileDeviceTests.m */,
+				EDA9DF941847E8B30068565A /* Supporting Files */,
+			);
+			path = MobileDeviceTests;
+			sourceTree = "<group>";
+		};
+		EDA9DF941847E8B30068565A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DF951847E8B30068565A /* MobileDeviceTests-Info.plist */,
+				EDA9DF961847E8B30068565A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EDA9DFA31847E8F80068565A /* src */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DFF51847F19D0068565A /* MainClass */,
+				EDA9DFA41847E8F80068565A /* AM */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		EDA9DFA41847E8F80068565A /* AM */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DFA51847E9930068565A /* AMService.h */,
+				EDA9DFAE1847EBEC0068565A /* AMService.m */,
+				EDA9DFA91847EB950068565A /* AMApplication.h */,
+				EDA9DFAD1847EBEC0068565A /* AMApplication.m */,
+				EDA9DFB11847EC230068565A /* AMNotificationProxy.h */,
+				EDA9DFB21847EC230068565A /* AMNotificationProxy.m */,
+				EDA9DFB51847EC720068565A /* AMSpringboardServices.h */,
+				EDA9DFB61847EC720068565A /* AMSpringboardServices.m */,
+				EDA9DFBD1847ED000068565A /* AMInstallationProxy.h */,
+				EDA9DFBE1847ED000068565A /* AMInstallationProxy.m */,
+				EDA9DFC11847ED450068565A /* AMMobileSync.h */,
+				EDA9DFC21847ED450068565A /* AMMobileSync.m */,
+				EDA9DFC51847ED7E0068565A /* AMSyslogRelay.h */,
+				EDA9DFC61847ED7E0068565A /* AMSyslogRelay.m */,
+				EDA9DFC91847ED980068565A /* AMFileRelay.h */,
+				EDA9DFCA1847ED980068565A /* AMFileRelay.m */,
+				EDA9DFCD1847EDBA0068565A /* AFCFileReference.h */,
+				EDA9DFCE1847EDBA0068565A /* AFCFileReference.m */,
+				EDA9DFD51847EECC0068565A /* BaseObject.h */,
+				EDA9DFD61847EECC0068565A /* BaseObject.m */,
+				EDA9DFD91847EF510068565A /* AFCDirectoryAccess.h */,
+				EDA9DFDA1847EF510068565A /* AFCDirectoryAccess.m */,
+				EDA9DFDD1847EFED0068565A /* AFCMediaDirectory.h */,
+				EDA9DFDE1847EFED0068565A /* AFCMediaDirectory.m */,
+				EDA9DFE11847F0180068565A /* AFCCrashLogDirectory.h */,
+				EDA9DFE21847F0180068565A /* AFCCrashLogDirectory.m */,
+				EDA9DFE51847F03C0068565A /* AFCGeneralDirectory.h */,
+				EDA9DFE61847F03C0068565A /* AFCGeneralDirectory.m */,
+				EDA9DFE91847F0570068565A /* AFCRootDirectory.h */,
+				EDA9DFEA1847F0570068565A /* AFCRootDirectory.m */,
+				EDA9DFED1847F06D0068565A /* AFCApplicationDirectory.h */,
+				EDA9DFEE1847F06D0068565A /* AFCApplicationDirectory.m */,
+				EDA9DFF11847F08F0068565A /* AMDevice.h */,
+				EDA9DFF21847F08F0068565A /* AMDevice.m */,
+			);
+			name = AM;
+			path = ADM;
+			sourceTree = "<group>";
+		};
+		EDA9DFF51847F19D0068565A /* MainClass */ = {
+			isa = PBXGroup;
+			children = (
+				EDA9DFF61847F1A80068565A /* MobileDeviceAccess.h */,
+				EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */,
+				EDA9DFFA184801580068565A /* DeviceAdapter.h */,
+				EDA9DFFB184801580068565A /* DeviceAdapter.m */,
+			);
+			path = MainClass;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		EDA9DF771847E8B20068565A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */,
+				EDA9DFF81847F1A80068565A /* MobileDeviceAccess.h in Headers */,
+				EDA9DFB31847EC230068565A /* AMNotificationProxy.h in Headers */,
+				EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */,
+				EDA9DFC71847ED7E0068565A /* AMSyslogRelay.h in Headers */,
+				EDA9DFDB1847EF510068565A /* AFCDirectoryAccess.h in Headers */,
+				EDA9DFA71847E9930068565A /* AMService.h in Headers */,
+				EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */,
+				EDA9DFEF1847F06D0068565A /* AFCApplicationDirectory.h in Headers */,
+				EDA9DFDF1847EFED0068565A /* AFCMediaDirectory.h in Headers */,
+				EDA9DFD71847EECC0068565A /* BaseObject.h in Headers */,
+				EDA9DFE71847F03C0068565A /* AFCGeneralDirectory.h in Headers */,
+				EDA9DFB71847EC720068565A /* AMSpringboardServices.h in Headers */,
+				EDA9DFBF1847ED000068565A /* AMInstallationProxy.h in Headers */,
+				EDA9DFEB1847F0570068565A /* AFCRootDirectory.h in Headers */,
+				EDA9DFAB1847EB950068565A /* AMApplication.h in Headers */,
+				EDA9DFCF1847EDBA0068565A /* AFCFileReference.h in Headers */,
+				EDA9DFCB1847ED980068565A /* AMFileRelay.h in Headers */,
+				EDA9DFC31847ED450068565A /* AMMobileSync.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		EDA9DF781847E8B20068565A /* MobileDevice */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA9DF9D1847E8B30068565A /* Build configuration list for PBXNativeTarget "MobileDevice" */;
+			buildPhases = (
+				EDA9DF751847E8B20068565A /* Sources */,
+				EDA9DF761847E8B20068565A /* Frameworks */,
+				EDA9DF771847E8B20068565A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MobileDevice;
+			productName = MobileDevice;
+			productReference = EDA9DF791847E8B20068565A /* libMobileDevice.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		EDA9DF8B1847E8B30068565A /* MobileDeviceTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA9DFA01847E8B30068565A /* Build configuration list for PBXNativeTarget "MobileDeviceTests" */;
+			buildPhases = (
+				EDA9DF881847E8B30068565A /* Sources */,
+				EDA9DF891847E8B30068565A /* Frameworks */,
+				EDA9DF8A1847E8B30068565A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EDA9DF911847E8B30068565A /* PBXTargetDependency */,
+			);
+			name = MobileDeviceTests;
+			productName = MobileDeviceTests;
+			productReference = EDA9DF8C1847E8B30068565A /* MobileDeviceTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EDA9DF711847E8B20068565A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Duyen Hoa Ha";
+			};
+			buildConfigurationList = EDA9DF741847E8B20068565A /* Build configuration list for PBXProject "MobileDevice" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EDA9DF701847E8B20068565A;
+			productRefGroup = EDA9DF7A1847E8B20068565A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EDA9DF781847E8B20068565A /* MobileDevice */,
+				EDA9DF8B1847E8B30068565A /* MobileDeviceTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EDA9DF8A1847E8B30068565A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DF981847E8B30068565A /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EDA9DF751847E8B20068565A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DFEC1847F0570068565A /* AFCRootDirectory.m in Sources */,
+				EDA9DFF41847F08F0068565A /* AMDevice.m in Sources */,
+				EDA9DFE01847EFED0068565A /* AFCMediaDirectory.m in Sources */,
+				EDA9DFFD184801580068565A /* DeviceAdapter.m in Sources */,
+				EDA9DFE41847F0180068565A /* AFCCrashLogDirectory.m in Sources */,
+				EDA9DFC41847ED450068565A /* AMMobileSync.m in Sources */,
+				EDA9DFF01847F06D0068565A /* AFCApplicationDirectory.m in Sources */,
+				EDA9DFAF1847EBEC0068565A /* AMApplication.m in Sources */,
+				EDA9DFF91847F1A80068565A /* MobileDeviceAccess.m in Sources */,
+				EDA9DFCC1847ED980068565A /* AMFileRelay.m in Sources */,
+				EDA9DFB01847EBEC0068565A /* AMService.m in Sources */,
+				EDA9DFDC1847EF510068565A /* AFCDirectoryAccess.m in Sources */,
+				EDA9DFC01847ED000068565A /* AMInstallationProxy.m in Sources */,
+				EDA9DFE81847F03C0068565A /* AFCGeneralDirectory.m in Sources */,
+				EDA9DFB81847EC720068565A /* AMSpringboardServices.m in Sources */,
+				EDA9DF871847E8B30068565A /* MobileDevice.m in Sources */,
+				EDA9DFD81847EECC0068565A /* BaseObject.m in Sources */,
+				EDA9DFC81847ED7E0068565A /* AMSyslogRelay.m in Sources */,
+				EDA9DFD01847EDBA0068565A /* AFCFileReference.m in Sources */,
+				EDA9DFB41847EC230068565A /* AMNotificationProxy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDA9DF881847E8B30068565A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA9DF9A1847E8B30068565A /* MobileDeviceTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EDA9DF911847E8B30068565A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDA9DF781847E8B20068565A /* MobileDevice */;
+			targetProxy = EDA9DF901847E8B30068565A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EDA9DF961847E8B30068565A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA9DF971847E8B30068565A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EDA9DF9B1847E8B30068565A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		EDA9DF9C1847E8B30068565A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		EDA9DF9E1847E8B30068565A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EDA9DF9F1847E8B30068565A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		EDA9DFA11847E8B30068565A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "MobileDeviceTests/MobileDeviceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		EDA9DFA21847E8B30068565A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				INFOPLIST_FILE = "MobileDeviceTests/MobileDeviceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDA9DF741847E8B20068565A /* Build configuration list for PBXProject "MobileDevice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA9DF9B1847E8B30068565A /* Debug */,
+				EDA9DF9C1847E8B30068565A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDA9DF9D1847E8B30068565A /* Build configuration list for PBXNativeTarget "MobileDevice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA9DF9E1847E8B30068565A /* Debug */,
+				EDA9DF9F1847E8B30068565A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		EDA9DFA01847E8B30068565A /* Build configuration list for PBXNativeTarget "MobileDeviceTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA9DFA11847E8B30068565A /* Debug */,
+				EDA9DFA21847E8B30068565A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDA9DF711847E8B20068565A /* Project object */;
+}
