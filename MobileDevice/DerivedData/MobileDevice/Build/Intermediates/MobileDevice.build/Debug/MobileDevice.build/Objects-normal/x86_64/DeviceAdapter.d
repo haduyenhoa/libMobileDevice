@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h \
+  /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h

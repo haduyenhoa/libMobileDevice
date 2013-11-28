@@ -179,7 +179,7 @@
 			if (*d=='.') {
 				if (d[1]=='\000') continue;			// skip '.'
 				if (d[1]=='.') {
-					if (d[2]=='\000'); continue;	// skip '..'
+					if (d[2]=='\000') ; continue;	// skip '..'
 				}
 			}
 			[result addObject:[NSString stringWithUTF8String:d]];
@@ -378,7 +378,7 @@ static BOOL read_dir( AFCDirectoryAccess *self, afc_connection afc, NSString *pa
 				stat([path1 fileSystemRepresentation],&s);
 				[info setObject:path1 forKey:@"Source"];
 				[info setObject:path2 forKey:@"Target"];
-				[info setObject:[NSNumber numberWithInt:s.st_size] forKey:@"Size"];
+				[info setObject:[NSNumber numberWithUnsignedLongLong:s.st_size] forKey:@"Size"];
 				[nc postNotificationName:@"AFCFileCopyBegin" object:self userInfo:info];
 				// open remote file for write
 				AFCFileReference *out = [self openForWrite:path2];
@@ -390,7 +390,7 @@ static BOOL read_dir( AFCDirectoryAccess *self, afc_connection afc, NSString *pa
 						[info setObject:[NSNumber numberWithInt:done] forKey:@"Done"];
 						[nc postNotificationName:@"AFCFileCopyProgress" object:self userInfo:info];
 						NSData *nextblock = [in readDataOfLength:bufsz];
-						uint32_t n = [nextblock length];
+						NSUInteger n = [nextblock length];
 						if (n==0) break;
 						[out writeNSData:nextblock];
 						done += n;

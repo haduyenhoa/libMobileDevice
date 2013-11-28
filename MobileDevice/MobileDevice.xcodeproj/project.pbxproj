@@ -52,6 +52,7 @@
 		EDA9DFF91847F1A80068565A /* MobileDeviceAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */; };
 		EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFFA184801580068565A /* DeviceAdapter.h */; };
 		EDA9DFFD184801580068565A /* DeviceAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFFB184801580068565A /* DeviceAdapter.m */; };
+		EDBEE73918480A520019D81B /* MobileDevice in Frameworks */ = {isa = PBXBuildFile; fileRef = EDBEE73818480A520019D81B /* MobileDevice */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +117,7 @@
 		EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileDeviceAccess.m; sourceTree = "<group>"; };
 		EDA9DFFA184801580068565A /* DeviceAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceAdapter.h; sourceTree = "<group>"; };
 		EDA9DFFB184801580068565A /* DeviceAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceAdapter.m; sourceTree = "<group>"; };
+		EDBEE73818480A520019D81B /* MobileDevice */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = MobileDevice; path = ../../../../../../System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDBEE73918480A520019D81B /* MobileDevice in Frameworks */,
 				EDA9DF7D1847E8B20068565A /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -162,6 +165,7 @@
 		EDA9DF7B1847E8B20068565A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				EDBEE73818480A520019D81B /* MobileDevice */,
 				EDA9DF7C1847E8B20068565A /* Cocoa.framework */,
 				EDA9DF8D1847E8B30068565A /* XCTest.framework */,
 				EDA9DF7E1847E8B20068565A /* Other Frameworks */,
@@ -514,6 +518,10 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -523,6 +531,10 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -582,6 +594,7 @@
 				EDA9DF9F1847E8B30068565A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EDA9DFA01847E8B30068565A /* Build configuration list for PBXNativeTarget "MobileDeviceTests" */ = {
 			isa = XCConfigurationList;
@@ -590,6 +603,7 @@
 				EDA9DFA21847E8B30068565A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -99,7 +99,7 @@
 			unsigned char *p = buff;
 			uint32_t left = sz;
 			while (left) {
-				uint32_t rc =recv(sock, p, left,0);
+				size_t rc = recv(sock, p, left,0);
 				if (rc==0) {
 					[self setLastError:[NSString stringWithFormat:@"Reply was truncated, expected %d more bytes",left]];
 					free(buff);

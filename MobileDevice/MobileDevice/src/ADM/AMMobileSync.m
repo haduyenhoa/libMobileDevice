@@ -48,7 +48,7 @@ __cfstring:00002150 cfstr_Response  __CFString <0, 0x7C8, aResponse, 8> ; "Respo
 
 - (id)getContactData
 {
-	NSDictionary *message;
+	NSArray *message;
 	message = [NSArray arrayWithObjects:
                @"DLMessageProcessMessage",
                [NSArray arrayWithObjects:
