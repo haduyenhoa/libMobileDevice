@@ -1,0 +1,1202 @@
+TMobileDevice
+v6
+r1
+cCheck dependencies
+cProcessPCH /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch MobileDevice/MobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a normal x86_64
+cCpHeader MobileDevice/src/MainClass/MobileDeviceAccess.h DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h
+cCpHeader MobileDevice/src/ADM/AMService.h DerivedData/Build/Products/Debug/usr/local/include/AMService.h
+cCpHeader MobileDevice/src/ADM/AMDevice.h DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h
+cCpHeader MobileDevice/src/ADM/AFCCrashLogDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h
+cCpHeader MobileDevice/src/ADM/AMNotificationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h
+cCpHeader MobileDevice/src/MainClass/DeviceAdapter.h DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h
+cCpHeader MobileDevice/src/ADM/AMSyslogRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h
+cCpHeader MobileDevice/src/ADM/AFCDirectoryAccess.h DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h
+cCpHeader MobileDevice/src/ADM/AFCApplicationDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h
+cCpHeader MobileDevice/src/ADM/AFCMediaDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h
+cCpHeader MobileDevice/src/ADM/BaseObject.h DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h
+cCpHeader MobileDevice/src/ADM/AFCGeneralDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h
+cCpHeader MobileDevice/src/ADM/AMSpringboardServices.h DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h
+cCpHeader MobileDevice/src/ADM/AMInstallationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h
+cCpHeader MobileDevice/src/ADM/AFCRootDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h
+cCpHeader MobileDevice/src/ADM/AMApplication.h DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h
+cCpHeader MobileDevice/src/ADM/AFCFileReference.h DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h
+cCpHeader MobileDevice/src/ADM/AMFileRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h
+cCpHeader MobileDevice/src/ADM/AMMobileSync.h DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005283DD3800000000000000AA
+t1384373560
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052676DCD000000000000044C
+t1382510029
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052676DCD00000000000001DB
+t1382510029
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052676DCD000000000000253C
+t1382510029
+s9532
+
+N/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice
+c00000000529517C7000000000028ED30
+t1385502663
+s2682160
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o
+t1385767493
+s10464
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o
+t1385767493
+s7816
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o
+t1385767493
+s50364
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o
+t1385767493
+s20060
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o
+t1385767493
+s7800
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o
+t1385767493
+s7764
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o
+t1385767493
+s7748
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o
+t1385767493
+s18444
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o
+t1385767493
+s50640
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o
+t1385767493
+s15684
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o
+t1385767493
+s33984
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o
+t1385767493
+s11032
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o
+t1385767494
+s23288
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o
+t1385767493
+s21580
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o
+t1385767493
+s13784
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o
+t1385767493
+s14944
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o
+t1385767493
+s3688
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o
+t1385771903
+s18436
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.LinkFileList
+c00000000529922440000000000000D8B
+t1385767492
+s3467
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o
+t1385767493
+s3688
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o
+t1385767493
+s22924
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch
+t1385767493
+s13705856
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a
+t1385771633
+s372848
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h
+t1385767494
+s1051
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h
+t1385767494
+s792
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h
+t1385767494
+s4965
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h
+t1385767494
+s2154
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h
+t1385767494
+s287
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h
+t1385767494
+s852
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h
+t1385767494
+s953
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h
+t1385767494
+s2983
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h
+t1385767494
+s23477
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h
+t1385767494
+s3715
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h
+t1385767494
+s5207
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h
+t1385767494
+s604
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h
+t1385767494
+s3569
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMService.h
+t1385767494
+s6291
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h
+t1385767494
+s1986
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h
+t1385767494
+s829
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h
+t1385767494
+s8697
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h
+t1385771633
+s646
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h
+t1385767494
+s2167
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice-Prefix.pch
+c000000005297B13200000000000000AC
+t1385673010
+s172
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.h
+c00000000529921F300000000000000DF
+t1385767411
+s223
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m
+c000000005297B13300000000000000D0
+t1385673011
+s208
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+c000000005297C929000000000000041B
+t1385679145
+s1051
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m
+c000000005297C6300000000000000522
+t1385678384
+s1314
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+c000000005297C9150000000000000318
+t1385679125
+s792
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m
+c000000005297C5DA0000000000000211
+t1385678298
+s529
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+c000000005297C8F00000000000001365
+t1385679088
+s4965
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m
+c000000005297D407000000000000364E
+t1385681927
+s13902
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+c000000005297C598000000000000086A
+t1385678232
+s2154
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m
+c000000005297C997000000000000084D
+t1385679255
+s2125
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+c000000005297C90E000000000000011F
+t1385679118
+s287
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m
+c000000005297C06E000000000000020E
+t1385676910
+s526
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+c000000005297C8FE0000000000000354
+t1385679102
+s852
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m
+c000000005297C8FB00000000000001F6
+t1385679099
+s502
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+c000000005297C91C00000000000003B9
+t1385679132
+s953
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m
+c000000005297C07D00000000000001F4
+t1385676925
+s500
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+c000000005297C6E30000000000000BA7
+t1385678563
+s2983
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m
+c000000005297C6E00000000000000801
+t1385678560
+s2049
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+c000000005297C8C70000000000005BB5
+t1385679047
+s23477
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m
+c000000005297C7230000000000002553
+t1385678627
+s9555
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+c000000005297C6B80000000000000E83
+t1385678520
+s3715
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m
+c000000005297C6B400000000000009FD
+t1385678516
+s2557
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+c000000005297C7E20000000000001457
+t1385678818
+s5207
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m
+c000000005297C7E800000000000046BF
+t1385678824
+s18111
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+c000000005297C6BF000000000000025C
+t1385678527
+s604
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m
+c000000005297D36100000000000019A8
+t1385681761
+s6568
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+c000000005297C6930000000000000DF1
+t1385678483
+s3569
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m
+c000000005297D42E00000000000017FB
+t1385681966
+s6139
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+c000000005297C9600000000000001893
+t1385679200
+s6291
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m
+c000000005297D3800000000000000E1C
+t1385681792
+s3612
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+c000000005297C79700000000000007C2
+t1385678743
+s1986
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m
+c000000005297C44200000000000007C5
+t1385677890
+s1989
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+c000000005297C6AB000000000000033D
+t1385678507
+s829
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m
+c000000005297C6A70000000000000E06
+t1385678503
+s3590
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+c000000005297C97A00000000000021F9
+t1385679226
+s8697
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m
+c000000005297B74B00000000000000CA
+t1385674571
+s202
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.h
+c0000000052992F500000000000000286
+t1385770832
+s646
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m
+c000000005299337E00000000000008F5
+t1385771902
+s2293
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.h
+c0000000052991FFC0000000000000877
+t1385766908
+s2167
+
+N/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m
+c000000005297D2D50000000000001156
+t1385681621
+s4438
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m
+r0
+
+CBuild AST from /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa33e41ff6a49b841^fce341ff6a49b841^---0#1#1#--18"Check dependencies36"01CB967A-7760-47B9-A728-77C655863653-
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.712855
+e407460293.780052
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m249"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o MobileDevice/src/ADM/AFCApplicationDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5fd0b6c55949b841^30bbc7c55949b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m0000000000000000^3730"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o MobileDevice/src/ADM/AFCApplicationDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCApplicationDirectory.o36"A5B485E3-7B36-497B-9EBB-A1F22986378B-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.692522
+e407460293.753510
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m243"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o MobileDevice/src/ADM/AFCCrashLogDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3068b1c55949b841^60e9c0c55949b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m0000000000000000^3712"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o MobileDevice/src/ADM/AFCCrashLogDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCCrashLogDirectory.o36"F60E7917-CEAD-4B76-85B3-41A28FD20A40-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.815171
+e407460293.947047
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:182:24: warning: if statement has empty body [-Wempty-body]
+o                                        if (d[2]=='\000') ; continue;   // skip '..'
+o                                                          ^
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:182:24: note: put the semicolon on a separate line to silence this warning
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:227:22: warning: if statement has empty body [-Wempty-body]
+o                                if (d[2]=='\000'); continue;    // skip '..'
+o                                                 ^
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:227:22: note: put the semicolon on a separate line to silence this warning
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m239"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o MobileDevice/src/ADM/AFCDirectoryAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd5ced0c55949b841^3a57f4c55949b841^-961"/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:182:24: warning: if statement has empty body [-Wempty-body]                                        if (d[2]=='\000') ; continue;   // skip '..'                                                          ^/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:182:24: note: put the semicolon on a separate line to silence this warning/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:227:22: warning: if statement has empty body [-Wempty-body]                                if (d[2]=='\000'); continue;    // skip '..'                                                 ^/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m:227:22: note: put the semicolon on a separate line to silence this warning2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@27"If statement has empty body-407460293#18446744073709551615#0#1(2@60"Put the semicolon on a separate line to silence this warning-407460293#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m0000000000000000^181#23#181#23#5150#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@105"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m0000000000000000^181#23#181#23#5150#0#14"Semantic Issue--2@27"If statement has empty body-407460293#18446744073709551615#0#1(2@60"Put the semicolon on a separate line to silence this warning-407460293#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@105"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m0000000000000000^226#21#226#21#6278#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@105"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m0000000000000000^226#21#226#21#6278#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@105"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m0000000000000000^3700"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o MobileDevice/src/ADM/AFCDirectoryAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCDirectoryAccess.o36"12AA9BC7-E604-4BEE-AF71-08663FBC09E0-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.938582
+e407460294.003057
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m:93:22: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'uint32_t' (aka 'unsigned int') [-Wshorten-64-to-32]
+o        return [self writeN:[data length] bytes:[data bytes]];
+o               ~            ^~~~~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m235"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o MobileDevice/src/ADM/AFCFileReference.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf965f0c55949b841^d63a01c65949b841^-375"/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m:93:22: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'uint32_t' (aka 'unsigned int') [-Wshorten-64-to-32]        return [self writeN:[data length] bytes:[data bytes]];               ~            ^~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@114"Implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'uint32_t' (aka 'unsigned int')-407460294#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@103"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m0000000000000000^92#21#92#21#1904#0#22"Value Conversion Issue2(3@103"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m0000000000000000^92#21#92#34#1904#12#3@103"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m0000000000000000^92#8#92#9#1891#0#-0#0#1#-19%DVTDocumentLocation4@103"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m0000000000000000^3688"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o MobileDevice/src/ADM/AFCFileReference.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCFileReference.o36"2A1C9B3F-C73A-4ADF-BBE9-A8D4EAA25B2D-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.850623
+e407460293.902115
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m241"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o MobileDevice/src/ADM/AFCGeneralDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler48e2d9c55949b841^aef4e6c55949b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m0000000000000000^3706"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o MobileDevice/src/ADM/AFCGeneralDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCGeneralDirectory.o36"51B163E7-1210-4966-A57F-740E93DA5F08-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.555776
+e407460293.692280
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m237"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o MobileDevice/src/ADM/AFCMediaDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere4688ec55949b841^aa2db1c55949b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m0000000000000000^3694"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o MobileDevice/src/ADM/AFCMediaDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCMediaDirectory.o36"EFF42328-6FA7-4C50-9FF0-4744E3A26E2C-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.555218
+e407460293.692171
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m235"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o MobileDevice/src/ADM/AFCRootDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerff3f8ec55949b841^804ab1c55949b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m0000000000000000^3688"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o MobileDevice/src/ADM/AFCRootDirectory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AFCRootDirectory.o36"9B7F67C1-8B01-4426-A827-81340855D5E9-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.755199
+e407460293.814101
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m229"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o MobileDevice/src/ADM/AMApplication.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler027ec1c55949b841^419fd0c55949b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m0000000000000000^3670"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o MobileDevice/src/ADM/AMApplication.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMApplication.o36"8E5AC37C-369C-4C6E-82F5-E68D92D7B00B-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.555482
+e407460293.770376
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m219"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o MobileDevice/src/ADM/AMDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler71548ec55949b841^4d4ec5c55949b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m0000000000000000^3640"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o MobileDevice/src/ADM/AMDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMDevice.o36"47553F35-98A1-4D9C-A724-18470C637D11-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.770719
+e407460293.831734
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m225"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o MobileDevice/src/ADM/AMFileRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler096dc5c55949b841^2909d5c55949b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m0000000000000000^3658"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o MobileDevice/src/ADM/AMFileRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMFileRelay.o36"3C102D7B-73BC-4ECC-9CDD-FD4CD260B08B-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.832390
+e407460293.923305
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m241"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o MobileDevice/src/ADM/AMInstallationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb745d5c55949b841^bde0efc55949b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m0000000000000000^3706"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o MobileDevice/src/ADM/AMInstallationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMInstallationProxy.o36"2BEC0BF4-9B0A-4F8D-A253-F585348B1534-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.693412
+e407460293.767520
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m227"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o MobileDevice/src/ADM/AMMobileSync.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a9fb1c55949b841^5892c4c55949b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m0000000000000000^3664"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o MobileDevice/src/ADM/AMMobileSync.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMMobileSync.o36"F3CB4669-07F6-4156-A28D-32D8A1D9C35D-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.947337
+e407460294.025455
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m:61:14: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]
+o                        [observer performSelector:message withObject:(__bridge NSString*)notification];
+o                                  ^
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m:61:30: note: used here
+o                        [observer performSelector:message withObject:(__bridge NSString*)notification];
+o                                                  ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m241"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o MobileDevice/src/ADM/AMNotificationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler66a4f2c55949b841^dac809c65949b841^-651"/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m:61:14: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]                        [observer performSelector:message withObject:(__bridge NSString*)notification];                                  ^/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m:61:30: note: used here                        [observer performSelector:message withObject:(__bridge NSString*)notification];                                                  ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@64"PerformSelector may cause a leak because its selector is unknown-407460294#18446744073709551615#0#1(2@9"Used here-407460294#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m0000000000000000^60#29#60#29#2402#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m0000000000000000^60#13#60#13#2386#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m0000000000000000^3706"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o MobileDevice/src/ADM/AMNotificationProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMNotificationProxy.o36"B43C802F-D1BE-401E-8948-51AB188FFA04-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.780739
+e407460293.863522
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m:32:15: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]
+o                        [_delegate performSelector:sel withObject:info];
+o                                   ^
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m:32:31: note: used here
+o                        [_delegate performSelector:sel withObject:info];
+o                                                   ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m221"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o MobileDevice/src/ADM/AMService.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7e02c8c55949b841^730fddc55949b841^-571"/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m:32:15: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]                        [_delegate performSelector:sel withObject:info];                                   ^/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m:32:31: note: used here                        [_delegate performSelector:sel withObject:info];                                                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@64"PerformSelector may cause a leak because its selector is unknown-407460293#18446744073709551615#0#1(2@9"Used here-407460293#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@96"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m0000000000000000^31#30#31#30#533#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@96"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m0000000000000000^31#14#31#14#517#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@96"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m0000000000000000^3646"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o MobileDevice/src/ADM/AMService.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMService.o36"56D246D7-3A46-445D-8E71-4175B502087E-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.864360
+e407460293.928400
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m245"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o MobileDevice/src/ADM/AMSpringboardServices.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8db3ddc55949b841^4d2cf0c55949b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m0000000000000000^3718"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o MobileDevice/src/ADM/AMSpringboardServices.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSpringboardServices.o36"632C96AF-2A4F-4826-89A8-C6A333B3C93D-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.929754
+e407460293.998718
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m:64:26: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]
+o                                                        [relay->_listener performSelector:relay->_message withObject:s];
+o                                                                          ^
+o/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m:64:42: note: used here
+o                                                        [relay->_listener performSelector:relay->_message withObject:s];
+o                                                                                          ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m229"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o MobileDevice/src/ADM/AMSyslogRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd925eec55949b841^5d3301c65949b841^-753"/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m:64:26: warning: performSelector may cause a leak because its selector is unknown [-Warc-performSelector-leaks]                                                        [relay->_listener performSelector:relay->_message withObject:s];                                                                          ^/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m:64:42: note: used here                                                        [relay->_listener performSelector:relay->_message withObject:s];                                                                                          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@64"PerformSelector may cause a leak because its selector is unknown-407460293#18446744073709551615#0#1(2@9"Used here-407460293#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m0000000000000000^63#41#63#41#2253#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@100"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m0000000000000000^63#25#63#25#2237#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@100"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m0000000000000000^3670"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o MobileDevice/src/ADM/AMSyslogRelay.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/AMSyslogRelay.o36"CF7FBBEA-2A86-476E-B369-D77978012387-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.923624
+e407460293.970557
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m223"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o MobileDevice/src/ADM/BaseObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb091ecc55949b841^80bbf8c55949b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m0000000000000000^3652"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o MobileDevice/src/ADM/BaseObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/BaseObject.o36"6A90D761-61AD-432A-AEC1-FE3D6F46155B-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407464703.259173
+e407464703.310216
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m235"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o MobileDevice/src/MainClass/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb9142ff6a49b841^626a4fff6a49b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m0000000000000000^3682"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o MobileDevice/src/MainClass/DeviceAdapter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/DeviceAdapter.o36"14D796CD-C77F-4B30-84A1-DB8C79184910-
+bEA8F4458-8143-4F8F-A2A2-2E871250C34D
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.903513
+e407460293.938291
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m219"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o MobileDevice/MobileDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf67ee7c55949b841^c479f0c55949b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m0000000000000000^3648"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o MobileDevice/MobileDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.o36"2B025CD9-065D-4222-A60B-04B7D601DCBD-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460293.768019
+e407460293.849600
+r1
+xCompileC
+xDerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m245"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o MobileDevice/src/MainClass/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0fbac4c55949b841^d883d9c55949b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m0000000000000000^3712"CompileC DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o MobileDevice/src/MainClass/MobileDeviceAccess.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -include /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.d --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.dia -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.m -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDeviceAccess.o36"2DC979CF-C934-4028-B6A6-2893617123B7-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCApplicationDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h
+s407460294.062590
+e407460294.066038
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCApplicationDirectory.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h132"CpHeader MobileDevice/src/ADM/AFCApplicationDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.hab2610c65949b841^6dc512c65949b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h0034d894deffdf42^521"CpHeader MobileDevice/src/ADM/AFCApplicationDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCApplicationDirectory.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCApplicationDirectory.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"A1530649-CAA7-41F9-8765-20E098AD67B3-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCCrashLogDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h
+s407460294.056699
+e407460294.058940
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCCrashLogDirectory.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h126"CpHeader MobileDevice/src/ADM/AFCCrashLogDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.hc5920ec65949b841^003c12c65949b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h0034d894deffdf42^512"CpHeader MobileDevice/src/ADM/AFCCrashLogDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCCrashLogDirectory.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCCrashLogDirectory.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"061CEA8F-AA0C-42B6-B707-EBEB25FD2509-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCDirectoryAccess.h DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h
+s407460294.061254
+e407460294.063992
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCDirectoryAccess.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h122"CpHeader MobileDevice/src/ADM/AFCDirectoryAccess.h DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h87e10fc65949b841^d8bc12c65949b841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h0034d894deffdf42^506"CpHeader MobileDevice/src/ADM/AFCDirectoryAccess.h DerivedData/Build/Products/Debug/usr/local/include/AFCDirectoryAccess.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCDirectoryAccess.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"EBB41A47-68C3-4122-9B3F-E3B62664689A-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCFileReference.h DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h
+s407460294.070057
+e407460294.071947
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCFileReference.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h118"CpHeader MobileDevice/src/ADM/AFCFileReference.h DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.hb1fc11c65949b841^a9f912c65949b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h0034d894deffdf42^500"CpHeader MobileDevice/src/ADM/AFCFileReference.h DerivedData/Build/Products/Debug/usr/local/include/AFCFileReference.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCFileReference.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"0B5ADFDE-F6DB-43CD-9BD1-DBEFCFFDB7F4-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCGeneralDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h
+s407460294.065245
+e407460294.067184
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCGeneralDirectory.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h124"CpHeader MobileDevice/src/ADM/AFCGeneralDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.hb9c110c65949b841^92cc12c65949b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h0034d894deffdf42^509"CpHeader MobileDevice/src/ADM/AFCGeneralDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCGeneralDirectory.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCGeneralDirectory.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"9653F773-0C56-4F1F-ABA8-F81C79AF6F2D-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCMediaDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h
+s407460294.064130
+e407460294.066331
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCMediaDirectory.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h120"CpHeader MobileDevice/src/ADM/AFCMediaDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h757810c65949b841^9fc912c65949b841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h0034d894deffdf42^503"CpHeader MobileDevice/src/ADM/AFCMediaDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCMediaDirectory.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCMediaDirectory.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"88DDB435-FDD3-42EB-91CC-020538E69325-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AFCRootDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h
+s407460294.068033
+e407460294.071680
+r1
+xCpHeader
+xMobileDevice/src/ADM/AFCRootDirectory.h
+xDerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h118"CpHeader MobileDevice/src/ADM/AFCRootDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h12c011c65949b841^b1dc12c65949b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h0034d894deffdf42^500"CpHeader MobileDevice/src/ADM/AFCRootDirectory.h DerivedData/Build/Products/Debug/usr/local/include/AFCRootDirectory.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AFCRootDirectory.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"6EA81D68-92C4-484A-83A3-DBA8993F6ED4-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMApplication.h DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h
+s407460294.068885
+e407460294.071932
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMApplication.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h112"CpHeader MobileDevice/src/ADM/AMApplication.h DerivedData/Build/Products/Debug/usr/local/include/AMApplication.hd7dc11c65949b841^dcf512c65949b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h0034d894deffdf42^491"CpHeader MobileDevice/src/ADM/AMApplication.h DerivedData/Build/Products/Debug/usr/local/include/AMApplication.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMApplication.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"0D3DA4EC-2EC0-4054-A84F-688890A4D1F9-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMDevice.h DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h
+s407460294.056303
+e407460294.059281
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMDevice.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h102"CpHeader MobileDevice/src/ADM/AMDevice.h DerivedData/Build/Products/Debug/usr/local/include/AMDevice.hc7b80ec65949b841^7c6512c65949b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h0034d894deffdf42^476"CpHeader MobileDevice/src/ADM/AMDevice.h DerivedData/Build/Products/Debug/usr/local/include/AMDevice.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMDevice.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"17354EF1-6633-424E-9598-ED6A505F1123-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMFileRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h
+s407460294.072019
+e407460294.074540
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMFileRelay.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h108"CpHeader MobileDevice/src/ADM/AMFileRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h70b112c65949b841^3e9216c65949b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h0034d894deffdf42^485"CpHeader MobileDevice/src/ADM/AMFileRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMFileRelay.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMFileRelay.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"55B5A474-185B-4F5F-9809-817A42774EE0-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMInstallationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h
+s407460294.067766
+e407460294.072327
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMInstallationProxy.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h124"CpHeader MobileDevice/src/ADM/AMInstallationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h6ec211c65949b841^cafd12c65949b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h0034d894deffdf42^509"CpHeader MobileDevice/src/ADM/AMInstallationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMInstallationProxy.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMInstallationProxy.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"62AE3EAC-F5C3-4B27-BCE3-BDA4CF6F45D6-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMMobileSync.h DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h
+s407460294.072558
+e407460294.074677
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMMobileSync.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h110"CpHeader MobileDevice/src/ADM/AMMobileSync.h DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h30a112c65949b841^1f9d16c65949b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h0034d894deffdf42^488"CpHeader MobileDevice/src/ADM/AMMobileSync.h DerivedData/Build/Products/Debug/usr/local/include/AMMobileSync.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMMobileSync.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"45033461-3DE5-4100-9A32-5DC89D77BF7C-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMNotificationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h
+s407460294.059686
+e407460294.062194
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMNotificationProxy.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h124"CpHeader MobileDevice/src/ADM/AMNotificationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h74620fc65949b841^32ac12c65949b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h0034d894deffdf42^509"CpHeader MobileDevice/src/ADM/AMNotificationProxy.h DerivedData/Build/Products/Debug/usr/local/include/AMNotificationProxy.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMNotificationProxy.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"87FA0258-BECC-437C-8EC4-3E426C3FD880-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMService.h DerivedData/Build/Products/Debug/usr/local/include/AMService.h
+s407460294.055953
+e407460294.059714
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMService.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMService.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy DerivedData/Build/Products/Debug/usr/local/include/AMService.h104"CpHeader MobileDevice/src/ADM/AMService.h DerivedData/Build/Products/Debug/usr/local/include/AMService.h29ae0ec65949b841^726f12c65949b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMService.h0034d894deffdf42^479"CpHeader MobileDevice/src/ADM/AMService.h DerivedData/Build/Products/Debug/usr/local/include/AMService.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMService.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"547676FE-1401-4A7E-9EA2-826A96351FEA-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMSpringboardServices.h DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h
+s407460294.066562
+e407460294.069152
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMSpringboardServices.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h128"CpHeader MobileDevice/src/ADM/AMSpringboardServices.h DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.hb24611c65949b841^89d212c65949b841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h0034d894deffdf42^515"CpHeader MobileDevice/src/ADM/AMSpringboardServices.h DerivedData/Build/Products/Debug/usr/local/include/AMSpringboardServices.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSpringboardServices.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"CD0D177E-5AF9-4368-8F31-1D7D42549320-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/AMSyslogRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h
+s407460294.060705
+e407460294.063897
+r1
+xCpHeader
+xMobileDevice/src/ADM/AMSyslogRelay.h
+xDerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h112"CpHeader MobileDevice/src/ADM/AMSyslogRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.hc9af0fc65949b841^c4b512c65949b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h0034d894deffdf42^491"CpHeader MobileDevice/src/ADM/AMSyslogRelay.h DerivedData/Build/Products/Debug/usr/local/include/AMSyslogRelay.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/AMSyslogRelay.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"126BA0B9-0153-4F53-BF3E-0EA5A2920624-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/ADM/BaseObject.h DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h
+s407460294.064698
+e407460294.066742
+r1
+xCpHeader
+xMobileDevice/src/ADM/BaseObject.h
+xDerivedData/Build/Products/Debug/usr/local/include/BaseObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h106"CpHeader MobileDevice/src/ADM/BaseObject.h DerivedData/Build/Products/Debug/usr/local/include/BaseObject.habb110c65949b841^cdce12c65949b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h0034d894deffdf42^482"CpHeader MobileDevice/src/ADM/BaseObject.h DerivedData/Build/Products/Debug/usr/local/include/BaseObject.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/ADM/BaseObject.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"7B133837-7274-44F5-B697-EDBF5A424518-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CCpHeader MobileDevice/src/MainClass/DeviceAdapter.h DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h
+s407464433.469787
+e407464433.473216
+r1
+xCpHeader
+xMobileDevice/src/MainClass/DeviceAdapter.h
+xDerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h118"CpHeader MobileDevice/src/MainClass/DeviceAdapter.h DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.heb5578f16949b841^ee2579f16949b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h0000000000000000^503"CpHeader MobileDevice/src/MainClass/DeviceAdapter.h DerivedData/Build/Products/Debug/usr/local/include/DeviceAdapter.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/DeviceAdapter.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"6A34299A-C908-444B-BB2D-69A91B7A7038-
+b886E654C-F1C8-4089-8E54-B277F8086C82
+
+CCpHeader MobileDevice/src/MainClass/MobileDeviceAccess.h DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h
+s407460294.055607
+e407460294.059406
+r1
+xCpHeader
+xMobileDevice/src/MainClass/MobileDeviceAccess.h
+xDerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h128"CpHeader MobileDevice/src/MainClass/MobileDeviceAccess.h DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h014f0ec65949b841^123012c65949b841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h0034d894deffdf42^518"CpHeader MobileDevice/src/MainClass/MobileDeviceAccess.h DerivedData/Build/Products/Debug/usr/local/include/MobileDeviceAccess.h    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/src/MainClass/MobileDeviceAccess.h /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/usr/local/include36"2FD09BF7-CAD3-49BD-98A3-01249799B77E-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CLibtool /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a normal x86_64
+s407464703.311232
+e407464703.321431
+r1
+xLibtool
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice is a dynamic library, not added to the static library
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Libtool DerivedData/Build/Products/Debug/libMobileDevice.a normal x86_6472"Libtool DerivedData/Build/Products/Debug/libMobileDevice.a normal x86_6413ba4fff6a49b841^1f4852ff6a49b841^-474"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice is a dynamic library, not added to the static library-0#0#1#--1074"Libtool DerivedData/Build/Products/Debug/libMobileDevice.a normal x86_64    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug -L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A -filelist /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/Objects-normal/x86_64/MobileDevice.LinkFileList /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice -framework Cocoa -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/libMobileDevice.a36"E90C9313-C0F3-48C7-8791-B0E63DC86F89-
+bEA8F4458-8143-4F8F-A2A2-2E871250C34D
+
+CProcessPCH /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch MobileDevice/MobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407460292.664945
+e407460293.554272
+r1
+xProcessPCH
+x/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch
+xMobileDevice/MobileDevice-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MobileDevice/MobileDevice-Prefix.pch245"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch MobileDevice/MobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc558aac45949b841^dee68dc55949b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice-Prefix.pch0000000000000000^3541"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch MobileDevice/MobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-generated-files.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-own-target-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-all-target-headers.hmap -iquote /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/MobileDevice-project-headers.hmap -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources/x86_64 -I/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/MobileDevice.build/Debug/MobileDevice.build/DerivedSources -F/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Products/Debug --serialize-diagnostics /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.d -c /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice/MobileDevice-Prefix.pch -o /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/Build/Intermediates/PrecompiledHeaders/MobileDevice-Prefix-atpseiqfvtovpwglzthfzdiogqis/MobileDevice-Prefix.pch.pch36"04A2913D-6918-40A4-B7B2-9B60D2883C7A-
+bA9DB9869-F863-4F40-A0C9-A733767FE7E3
+
+CProcessPCH /Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/DerivedData/MobileDevice/Index/PrecompiledHeaders/MobileDevice-Prefix-anqpeoxfhrmcjsercwqbkyploezr_ast/MobileDevice-Prefix.pch.pch MobileDevice/MobileDevice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

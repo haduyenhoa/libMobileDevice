@@ -14,43 +14,43 @@
 		EDA9DF921847E8B30068565A /* libMobileDevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EDA9DF791847E8B20068565A /* libMobileDevice.a */; };
 		EDA9DF981847E8B30068565A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EDA9DF961847E8B30068565A /* InfoPlist.strings */; };
 		EDA9DF9A1847E8B30068565A /* MobileDeviceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DF991847E8B30068565A /* MobileDeviceTests.m */; };
-		EDA9DFA71847E9930068565A /* AMService.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA51847E9930068565A /* AMService.h */; };
-		EDA9DFAB1847EB950068565A /* AMApplication.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA91847EB950068565A /* AMApplication.h */; };
+		EDA9DFA71847E9930068565A /* AMService.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA51847E9930068565A /* AMService.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EDA9DFAB1847EB950068565A /* AMApplication.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFA91847EB950068565A /* AMApplication.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFAF1847EBEC0068565A /* AMApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFAD1847EBEC0068565A /* AMApplication.m */; };
 		EDA9DFB01847EBEC0068565A /* AMService.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFAE1847EBEC0068565A /* AMService.m */; };
-		EDA9DFB31847EC230068565A /* AMNotificationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB11847EC230068565A /* AMNotificationProxy.h */; };
+		EDA9DFB31847EC230068565A /* AMNotificationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB11847EC230068565A /* AMNotificationProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFB41847EC230068565A /* AMNotificationProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFB21847EC230068565A /* AMNotificationProxy.m */; };
-		EDA9DFB71847EC720068565A /* AMSpringboardServices.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB51847EC720068565A /* AMSpringboardServices.h */; };
+		EDA9DFB71847EC720068565A /* AMSpringboardServices.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFB51847EC720068565A /* AMSpringboardServices.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFB81847EC720068565A /* AMSpringboardServices.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFB61847EC720068565A /* AMSpringboardServices.m */; };
-		EDA9DFBF1847ED000068565A /* AMInstallationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFBD1847ED000068565A /* AMInstallationProxy.h */; };
+		EDA9DFBF1847ED000068565A /* AMInstallationProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFBD1847ED000068565A /* AMInstallationProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFC01847ED000068565A /* AMInstallationProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFBE1847ED000068565A /* AMInstallationProxy.m */; };
-		EDA9DFC31847ED450068565A /* AMMobileSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC11847ED450068565A /* AMMobileSync.h */; };
+		EDA9DFC31847ED450068565A /* AMMobileSync.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC11847ED450068565A /* AMMobileSync.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFC41847ED450068565A /* AMMobileSync.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFC21847ED450068565A /* AMMobileSync.m */; };
-		EDA9DFC71847ED7E0068565A /* AMSyslogRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC51847ED7E0068565A /* AMSyslogRelay.h */; };
+		EDA9DFC71847ED7E0068565A /* AMSyslogRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC51847ED7E0068565A /* AMSyslogRelay.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFC81847ED7E0068565A /* AMSyslogRelay.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFC61847ED7E0068565A /* AMSyslogRelay.m */; };
-		EDA9DFCB1847ED980068565A /* AMFileRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC91847ED980068565A /* AMFileRelay.h */; };
+		EDA9DFCB1847ED980068565A /* AMFileRelay.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFC91847ED980068565A /* AMFileRelay.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFCC1847ED980068565A /* AMFileRelay.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFCA1847ED980068565A /* AMFileRelay.m */; };
-		EDA9DFCF1847EDBA0068565A /* AFCFileReference.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFCD1847EDBA0068565A /* AFCFileReference.h */; };
+		EDA9DFCF1847EDBA0068565A /* AFCFileReference.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFCD1847EDBA0068565A /* AFCFileReference.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFD01847EDBA0068565A /* AFCFileReference.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFCE1847EDBA0068565A /* AFCFileReference.m */; };
-		EDA9DFD71847EECC0068565A /* BaseObject.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD51847EECC0068565A /* BaseObject.h */; };
+		EDA9DFD71847EECC0068565A /* BaseObject.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD51847EECC0068565A /* BaseObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFD81847EECC0068565A /* BaseObject.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFD61847EECC0068565A /* BaseObject.m */; };
-		EDA9DFDB1847EF510068565A /* AFCDirectoryAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD91847EF510068565A /* AFCDirectoryAccess.h */; };
+		EDA9DFDB1847EF510068565A /* AFCDirectoryAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFD91847EF510068565A /* AFCDirectoryAccess.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFDC1847EF510068565A /* AFCDirectoryAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFDA1847EF510068565A /* AFCDirectoryAccess.m */; };
-		EDA9DFDF1847EFED0068565A /* AFCMediaDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFDD1847EFED0068565A /* AFCMediaDirectory.h */; };
+		EDA9DFDF1847EFED0068565A /* AFCMediaDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFDD1847EFED0068565A /* AFCMediaDirectory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFE01847EFED0068565A /* AFCMediaDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFDE1847EFED0068565A /* AFCMediaDirectory.m */; };
-		EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE11847F0180068565A /* AFCCrashLogDirectory.h */; };
+		EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE11847F0180068565A /* AFCCrashLogDirectory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFE41847F0180068565A /* AFCCrashLogDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFE21847F0180068565A /* AFCCrashLogDirectory.m */; };
-		EDA9DFE71847F03C0068565A /* AFCGeneralDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE51847F03C0068565A /* AFCGeneralDirectory.h */; };
+		EDA9DFE71847F03C0068565A /* AFCGeneralDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE51847F03C0068565A /* AFCGeneralDirectory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFE81847F03C0068565A /* AFCGeneralDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFE61847F03C0068565A /* AFCGeneralDirectory.m */; };
-		EDA9DFEB1847F0570068565A /* AFCRootDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE91847F0570068565A /* AFCRootDirectory.h */; };
+		EDA9DFEB1847F0570068565A /* AFCRootDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFE91847F0570068565A /* AFCRootDirectory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFEC1847F0570068565A /* AFCRootDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFEA1847F0570068565A /* AFCRootDirectory.m */; };
-		EDA9DFEF1847F06D0068565A /* AFCApplicationDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFED1847F06D0068565A /* AFCApplicationDirectory.h */; };
+		EDA9DFEF1847F06D0068565A /* AFCApplicationDirectory.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFED1847F06D0068565A /* AFCApplicationDirectory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFF01847F06D0068565A /* AFCApplicationDirectory.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFEE1847F06D0068565A /* AFCApplicationDirectory.m */; };
-		EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF11847F08F0068565A /* AMDevice.h */; };
+		EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF11847F08F0068565A /* AMDevice.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFF41847F08F0068565A /* AMDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFF21847F08F0068565A /* AMDevice.m */; };
-		EDA9DFF81847F1A80068565A /* MobileDeviceAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF61847F1A80068565A /* MobileDeviceAccess.h */; };
+		EDA9DFF81847F1A80068565A /* MobileDeviceAccess.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFF61847F1A80068565A /* MobileDeviceAccess.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFF91847F1A80068565A /* MobileDeviceAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFF71847F1A80068565A /* MobileDeviceAccess.m */; };
-		EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFFA184801580068565A /* DeviceAdapter.h */; };
+		EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = EDA9DFFA184801580068565A /* DeviceAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDA9DFFD184801580068565A /* DeviceAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = EDA9DFFB184801580068565A /* DeviceAdapter.m */; };
 		EDBEE73918480A520019D81B /* MobileDevice in Frameworks */ = {isa = PBXBuildFile; fileRef = EDBEE73818480A520019D81B /* MobileDevice */; };
 /* End PBXBuildFile section */
@@ -289,14 +289,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */,
 				EDA9DFF81847F1A80068565A /* MobileDeviceAccess.h in Headers */,
+				EDA9DFA71847E9930068565A /* AMService.h in Headers */,
+				EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */,
+				EDA9DFE31847F0180068565A /* AFCCrashLogDirectory.h in Headers */,
 				EDA9DFB31847EC230068565A /* AMNotificationProxy.h in Headers */,
 				EDA9DFFC184801580068565A /* DeviceAdapter.h in Headers */,
 				EDA9DFC71847ED7E0068565A /* AMSyslogRelay.h in Headers */,
 				EDA9DFDB1847EF510068565A /* AFCDirectoryAccess.h in Headers */,
-				EDA9DFA71847E9930068565A /* AMService.h in Headers */,
-				EDA9DFF31847F08F0068565A /* AMDevice.h in Headers */,
 				EDA9DFEF1847F06D0068565A /* AFCApplicationDirectory.h in Headers */,
 				EDA9DFDF1847EFED0068565A /* AFCMediaDirectory.h in Headers */,
 				EDA9DFD71847EECC0068565A /* BaseObject.h in Headers */,
@@ -516,12 +516,14 @@
 		EDA9DF9E1847E8B30068565A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -529,12 +531,14 @@
 		EDA9DF9F1847E8B30068565A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MobileDevice/MobileDevice-Prefix.pch";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SYSTEM_LIBRARY_DIR)/PrivateFrameworks/MobileDevice.framework/Versions/A",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

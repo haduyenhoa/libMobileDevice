@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>WorkspacePath</key>
-	<string>/Volumes/DATA/MY_WORKS/iOS7/libMobileDevice/MobileDevice/MobileDevice.xcodeproj</string>
+	<string>../../MobileDevice.xcodeproj</string>
 </dict>
 </plist>

@@ -34,7 +34,10 @@
 
 - (void)deviceConnected:(AMDevice*)device
 {
-	
+    if (self && [self.delegate respondsToSelector:@selector(amDeviceConnected:)]) {
+        [self.delegate amDeviceConnected:device];
+    }
+    
     self.iosDevice = device;
     
     
@@ -49,16 +52,19 @@
     //	files = [appDir directoryContents:@"/Documents"];
     //	NSLog(@"app dir files: %@", files);
     //
-    AFCApplicationDirectory *afcService = [self.iosDevice newAFCApplicationDirectory:@"com.allocine.applifrance"];
-    NSLog(@"%@",[afcService recursiveDirectoryContents:@"/"]);
-    
-    NSLog(@"serialnumber: %@",self.iosDevice.serialNumber);
-    AMNotificationProxy *aProxy = self.iosDevice.newAMNotificationProxy;
-    [aProxy postNotification:@"Hello !!!"];
+//    AFCApplicationDirectory *afcService = [self.iosDevice newAFCApplicationDirectory:@"com.allocine.applifrance"];
+//    NSLog(@"%@",[afcService recursiveDirectoryContents:@"/"]);
+//    
+//    NSLog(@"serialnumber: %@",self.iosDevice.serialNumber);
+//    AMNotificationProxy *aProxy = self.iosDevice.newAMNotificationProxy;
+//    [aProxy postNotification:@"Hello !!!"];
 }
 
 - (void)deviceDisconnected:(AMDevice*)device
 {
+    if (self && [self.delegate respondsToSelector:@selector(amDeviceDisconnected:)]) {
+        [self.delegate amDeviceDisconnected:device];
+    }
     self.iosDevice = nil;
 }
 
